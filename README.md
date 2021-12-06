@@ -7,7 +7,7 @@
 </br>
 
 [![Twitter: femi_cia](https://img.shields.io/twitter/follow/femi_cia?style=social)](https://twitter.com/femi_cia)
-[![Linkedin: femi-facia](https://img.shields.io/badge/-femi-facia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/femi-facia/)](https://www.linkedin.com/in/femi-facia)
+[![Linkedin: femi-facia](https://img.shields.io/badge/-Femi%20Facia-blue?style=flat-square&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/femi-facia/)](https://www.linkedin.com/in/femi-facia)
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366)](https://wa.me/+22994600505)
 
 *Student at [Epitech Benin](https://www.epitech.eu/fr/)*
