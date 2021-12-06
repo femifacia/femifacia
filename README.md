@@ -7,13 +7,24 @@
 
 ***Complex** == **fun***
 
-</br>
+## How to reach me ?
 
 [![Twitter: femi_cia](https://img.shields.io/twitter/follow/femi_cia?style=social)](https://twitter.com/femi_cia)
 [![Linkedin: femi-facia](https://img.shields.io/badge/-Femi%20Facia-blue?style=flat-square&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/femi-facia/)](https://www.linkedin.com/in/femi-facia)
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366)](https://wa.me/+22994600505)
 
-*Student at [Epitech Benin](https://www.epitech.eu/fr/)*
+</br>
+
+### More about me...
+
+-*Student at [Epitech Benin](https://www.epitech.eu/fr/)*
+
+-*my favorite **languages**: **C**, **C++** **Python***
+
+-*I like to code **simulation***
+
+-*I am a fan of history and culture*
+
 <!--
 
 **femifacia/femifacia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
