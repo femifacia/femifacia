@@ -2,9 +2,7 @@
 
 </br>
 
-Student at Epitech in 3rd year
-
-19 yo
+*Student at [Epitech Benin](https://www.epitech.eu/fr/)*
 
 [![Twitter: femi_cia](https://img.shields.io/twitter/follow/femi_cia?style=social)](https://twitter.com/femi_cia)
 
