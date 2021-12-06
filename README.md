@@ -1,6 +1,5 @@
-## Hello World 🌍, I'm Femi FACIA
+<h2> Hello World 🌍, I'm Femi FACIA <img align='right' src="./img/hello_robot.gif" width="80"> </h2>
 
-<p align='right'> <img src="./img/hello_robot.gif" width="80"> </p>
 
 <!--
 
