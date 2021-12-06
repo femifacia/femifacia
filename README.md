@@ -1,4 +1,4 @@
-<h2> Hello World 🌍, I'm Femi FACIA <img style = "position:relative; left:80px; top:20px;" src="./img/hello_robot.gif" width="80"> </h2>
+<h2> Hello World 🌍, I'm Femi FACIA <img style = "position:absolute; left:500px; top:0px;" src="./img/hello_robot.gif" width="80"> </h2>
 
 
 <!--
