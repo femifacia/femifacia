@@ -5,7 +5,7 @@
 *Student at [Epitech Benin](https://www.epitech.eu/fr/)*
 
 [![Twitter: femi_cia](https://img.shields.io/twitter/follow/femi_cia?style=social)](https://twitter.com/femi_cia)
-[![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=blue&labelColor=black)](https://wa.me/+22994600505)
+[![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366)](https://wa.me/+22994600505)
 
 <!--
 
