@@ -1,8 +1,11 @@
 <h2> Hello World 🌍, I'm Femi FACIA <img style = "position:absolute; left:500px; top:0px;" src="./img/hello_robot.gif" width="80"> </h2>
 
-*I am passionate by*
+*I am in love with **code**, **algorithms** and **efficient programming**.*
 
-### Whats I Love in Code
+*My **goal**, to **surpass myself**, to **work** on ever more **innovative and complex projects**, and to positively **influence***
+**the world of code**
+
+***Complex** == **fun***
 
 </br>
 
