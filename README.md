@@ -1,5 +1,12 @@
 <h2> Hello World 🌍, I'm Femi FACIA <img style = "position:absolute; left:500px; top:0px;" src="./img/hello_robot.gif" width="80"> </h2>
 
+</br>
+
+Student at Epitech in 3rd year
+
+19 yo
+
+[![Twitter: femi_cia](https://img.shields.io/twitter/follow/femi_cia?style=social)](https://twitter.com/femi_cia)
 
 <!--
 
