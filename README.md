@@ -1,6 +1,6 @@
 ## Hello World 🌍, I'm Femi FACIA
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/World_rotating.gif" width="250"> 
+<p align='right'> <img src="./img/hello_robot.gif" width="80"> </p>
 
 <!--
 
