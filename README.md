@@ -13,9 +13,7 @@
 [![Linkedin: femi-facia](https://img.shields.io/badge/-Femi%20Facia-blue?style=flat-square&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/femi-facia/)](https://www.linkedin.com/in/femi-facia)
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366)](https://wa.me/+22994600505)
 
-</br>
-
-### More about me...
+### More about me... <img style = "position:absolute; left:500px; top:0px;" src="./img/meditation2.gif" width="80">
 
 -*Student at [Epitech Benin](https://www.epitech.eu/fr/)*
 
