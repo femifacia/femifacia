@@ -15,13 +15,13 @@
 
 ### More about me... <img src="./img/meditation2.gif" width="150">
 
--*Student at [Epitech Benin](https://www.epitech.eu/fr/)*
+- *Student at [Epitech Benin](https://www.epitech.eu/fr/)*
 
--*my favorite **languages**: **C**, **C++** **Python***
+- *my favorite **languages**: **C**, **C++** **Python***
 
--*I like to code **simulation***
+- *I like to code **simulation***
 
--*I am a fan of history and culture*
+- *I am a fan of history and culture*
 
 <!--
 
