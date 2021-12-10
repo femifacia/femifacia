@@ -13,8 +13,10 @@
 [![Linkedin: femi-facia](https://img.shields.io/badge/-Femi%20Facia-blue?style=flat-square&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/femi-facia/)](https://www.linkedin.com/in/femi-facia)
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366)](https://wa.me/+22994600505)
 
-### More about me... <img src="./img/meditation2.gif" width="150">
-
+### More about me... <img src="./img/work.gif" width="200">
+<!--
+<img src="./img/meditation2.gif" width="150">
+-->
 - *Student at [Epitech Benin](https://www.epitech.eu/fr/)*
 
 - *my favorite **languages**: **C**, **C++** **Python***
