@@ -1,4 +1,9 @@
-<h2> Hello World 🌍, I'm Femi FACIA <img style = "position:absolute; left:500px; top:0px;" src="./img/hello_robot.gif" width="80"> </h2>
+<!--<h2> Hello World 🌍, I'm Femi FACIA <img style = "position:absolute; left:500px; top:0px;" src="./img/hello_robot.gif" width="80"> </h2>
+<h2> Hello World 🌍, I'm Femi FACIA <img style = "position:absolute; left:500px; top:0px;" src="./img/output-onlinegiftools%20(2).gif" width="150"> </h2>
+-->
+
+## Hello World 🌍, I'm Femi FACIA <img src="./img/output-onlinegiftools%20(2).gif" width="300">
+
 
 *I am in love with **code**, **algorithms** and **efficient programming**.*
 
@@ -13,7 +18,7 @@
 [![Linkedin: femi-facia](https://img.shields.io/badge/-Femi%20Facia-blue?style=flat-square&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/femi-facia/)](https://www.linkedin.com/in/femi-facia)
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366)](https://wa.me/+22994600505)
 
-### More about me... <img src="./img/work.gif" width="200">
+### More about me... <img src="./img/work.gif" width="300">
 <!--
 <img src="./img/meditation2.gif" width="150">
 -->
