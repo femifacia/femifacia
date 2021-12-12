@@ -30,10 +30,12 @@
 
 - *I am a fan of history and culture*
 
-### <img src="./img/output-onlinegiftools%20(3).gif" width="300">
+### Programing Languages<img src="./img/output-onlinegiftools%20(3).gif" width="300">
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 <!--
 
 **femifacia/femifacia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
