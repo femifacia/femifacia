@@ -31,10 +31,11 @@
 - *I am a fan of history and culture*
 
 ### Programing Languages<img src="./img/output-onlinegiftools%20(3).gif" width="300">
-![Assembly](https://img.shields.io/badge/Assembly-yellow?style=flat-square&logo=haskell)
+![Assembly](https://img.shields.io/badge/Assembly-yellow?style=flat-square&logo=)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-blueviolet?style=flat-square&logo=haskell)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 <!--
