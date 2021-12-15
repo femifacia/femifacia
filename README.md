@@ -31,7 +31,7 @@
 - *I am a fan of history and culture*
 
 ### Programing Languages<img src="./img/output-onlinegiftools%20(3).gif" width="300">
-![Assembly](https://img.shields.io/badge/Assembly-yellow?style=flat-square&logo=)
+![Assembly](https://img.shields.io/badge/Assembly-yellow?style=flat-square&logo=intel)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
