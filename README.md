@@ -50,6 +50,18 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-121011?style=flat-square&logo=notion&logoColor=white)
 
+### Github stats
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=femifacia)
+
+<p align="center">
+
+  <a href="https://metrics.lecoq.io/femifacia">
+    <img align="center" src="https://metrics.lecoq.io/femifacia" />
+  </a>
+
+</p>
+
 <!--
 
 **femifacia/femifacia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
