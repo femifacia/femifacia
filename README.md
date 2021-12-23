@@ -54,7 +54,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=femifacia)
 
-<p align="center">
+<p>
 
   <a href="https://metrics.lecoq.io/femifacia">
     <img align="center" src="https://metrics.lecoq.io/femifacia" />
