@@ -57,7 +57,7 @@
 <p>
 
   <a href="https://metrics.lecoq.io/femifacia">
-    <img align="center" src="https://metrics.lecoq.io/femifacia" />
+    <img src="https://metrics.lecoq.io/femifacia" />
   </a>
 
 </p>
