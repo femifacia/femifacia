@@ -16,18 +16,18 @@
 <!--
 <img src="./img/meditation2.gif" width="150">
 -->
-- *Student at [Epitech Benin](https://www.epitech.eu/fr/)*
+-  👨‍🎓 *Student at [Epitech Benin](https://www.epitech.eu/fr/)*
 
-- *my favorite **languages**: **C**, **C++** **Python***
+- 💻 *my favorite **languages**: **C**, **C++** **Python***
 
-- *I like to code **simulation***
+- 🧪 *I like to code **simulation***
 
-- *My **goal**, to **surpass myself**, to **work** on ever more **innovative and complex projects**, and to positively **influence***
+- 🚀 *My **goal**, to **surpass myself**, to **work** on ever more **innovative and complex projects**, and to positively **influence***
 **the world of code**
 
-- ***Complex** == **fun***
+- ⚙ ***Complex** == **fun***
 
-- *I am a fan of history and culture*
+- 📜 *I am a **fan** of **history** and **culture***
 
 ### Programing Languages<img src="./img/Typing.png" width="300">
 ![Assembly](https://img.shields.io/badge/Assembly-yellow?style=flat-square&logo=intel)
