@@ -2,7 +2,7 @@
 <h2> Hello World 🌍, I'm Femi FACIA <img style = "position:absolute; left:500px; top:0px;" src="./img/output-onlinegiftools%20(2).gif" width="150"> </h2>
 -->
 
-## Hello World 🌍, I'm Femi FACIA <img src="./img/output-onlinegiftools%20(2).gif" width="300">
+## Hello World 🌍, I'm Femi FACIA <img src="./img/me1.png" width="250">
 
 *I am in love with **code**, **algorithms** and **efficient programming**.*
 
@@ -12,7 +12,7 @@
 [![Linkedin: femi-facia](https://img.shields.io/badge/-Femi%20Facia-blue?style=flat-square&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/femi-facia/)](https://www.linkedin.com/in/femi-facia)
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366)](https://wa.me/+22994600505)
 
-### More about me... <img src="./img/work.gif" width="300">
+### More about me... <img src="./img/work.png" width="300">
 <!--
 <img src="./img/meditation2.gif" width="150">
 -->
@@ -29,7 +29,7 @@
 
 - *I am a fan of history and culture*
 
-### Programing Languages<img src="./img/output-onlinegiftools%20(3).gif" width="300">
+### Programing Languages<img src="./img/Typing.png" width="300">
 ![Assembly](https://img.shields.io/badge/Assembly-yellow?style=flat-square&logo=intel)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -50,7 +50,7 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-121011?style=flat-square&logo=notion&logoColor=white)
 
-### Github stats
+### GitHub stats
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=femifacia)
 
